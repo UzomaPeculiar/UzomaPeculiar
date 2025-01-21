@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UzomaPeculiar
+- 👋 Hi, I’m Uzoma Peculiar
 - 👀 I’m interested in Data Analytics/Tech
 - 🌱 I’m currently learning Economics 
 - 💞️ I’m looking to collaborate on data analytic projects using Power BI, Python, SQL, Excel and R 
